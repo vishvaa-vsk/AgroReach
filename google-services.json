@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845070942204",
+    "project_id": "agroreach-b60aa",
+    "storage_bucket": "agroreach-b60aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845070942204:android:9c1ee50c79c8eb24147c79",
+        "android_client_info": {
+          "package_name": "com.hacktheharvest.agroreach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARwx2ymt_UJ_BiSKfKy7MENK-It2A740Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
